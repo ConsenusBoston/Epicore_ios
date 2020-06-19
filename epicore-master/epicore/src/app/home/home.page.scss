@@ -1,0 +1,41 @@
+#container {
+  text-align: center;
+  background-color:#0a586f;
+  min-height:100vh;
+  width:100vw;
+  position: absolute;
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+.logo{
+  height:60px;
+}
+
+
+.spinner{
+  margin-top:30vh;
+  font-size:24px;
+  color:white;
+}
+
+
+.ic{
+  min-height: 100vh;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "epicore",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
